@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "5fbcb2f924bce687ad07bc8d",
+    "name": "Brittany Fuller",
+    "times": [
+      {
+        "id": "yhzJLBHrEwq4Fqtt0KjNv",
+        "clockedIn": "2016-05-13T11:00:00.000Z",
+        "clockedOut": "2016-05-13T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9d3e098dcd1fa206c",
+    "name": "Garza Gilliam",
+    "times": [
+      {
+        "id": "lfu06I4IV1wc_nkKHH-AL",
+        "clockedIn": "2016-07-03T11:00:00.000Z",
+        "clockedOut": "2016-07-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f942ca6dff285ad15b",
+    "name": "Earlene Jarvis",
+    "times": [
+      {
+        "id": "FLD6bB6M3EfVYevbofWLx",
+        "clockedIn": "2015-12-14T11:00:00.000Z",
+        "clockedOut": "2015-12-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f98e6bf56c789ced67",
+    "name": "Bartlett Glass",
+    "times": [
+      {
+        "id": "BNfnyL3sOpN_lWbIJiedX",
+        "clockedIn": "2019-07-22T11:00:00.000Z",
+        "clockedOut": "2019-07-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Og6KRNPOwSK5fF9MdNvkU",
+        "clockedIn": "2018-02-15T11:00:00.000Z",
+        "clockedOut": "2018-02-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f986928a25c1b5d159",
+    "name": "Rodgers Patrick",
+    "times": [
+      {
+        "id": "Ihi7zTVJCCeI6g3D-2A5b",
+        "clockedIn": "2018-11-15T11:00:00.000Z",
+        "clockedOut": "2018-11-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f97628b2e5960273d1",
+    "name": "Bolton Cox",
+    "times": [
+      {
+        "id": "xdOLYWkqi_WleQS7gmGMd",
+        "clockedIn": "2018-09-18T11:00:00.000Z",
+        "clockedOut": "2018-09-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f97ca70b3e8a021200",
+    "name": "Keith Rocha",
+    "times": [
+      {
+        "id": "nQmBSJXWPyfDZ-CprhRDS",
+        "clockedIn": "2018-06-14T11:00:00.000Z",
+        "clockedOut": "2018-06-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "P6__lBfnB2SoBmvHymnPn",
+        "clockedIn": "2017-06-24T11:00:00.000Z",
+        "clockedOut": "2017-06-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9fa32428cc0b6d200",
+    "name": "Evangeline Mccarty",
+    "times": [
+      {
+        "id": "cWGh9dIDetdrwv8K0UBhn",
+        "clockedIn": "2017-06-24T11:00:00.000Z",
+        "clockedOut": "2017-06-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "AKJgO2qQtT8WtdSPx77hi",
+        "clockedIn": "2018-07-24T11:00:00.000Z",
+        "clockedOut": "2018-07-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f969f0d589964619ef",
+    "name": "Tamera Frost",
+    "times": [
+      {
+        "id": "GuMnzBbz5Z0jMrbdLD68c",
+        "clockedIn": "2017-09-01T11:00:00.000Z",
+        "clockedOut": "2017-09-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9b6bd156c9f60e6e2",
+    "name": "Haley Shaffer",
+    "times": [
+      {
+        "id": "hB6eM8uMTxNuUK7m6fiJb",
+        "clockedIn": "2016-04-24T11:00:00.000Z",
+        "clockedOut": "2016-04-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "_2MFCDaHJW4uQ8vqmpxCa",
+        "clockedIn": "2016-12-01T11:00:00.000Z",
+        "clockedOut": "2016-12-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9fd5a4acd87dd8e84",
+    "name": "Claudine Pratt",
+    "times": [
+      {
+        "id": "3ds_RMLanGWGmyyg4U3Ih",
+        "clockedIn": "2018-05-08T11:00:00.000Z",
+        "clockedOut": "2018-05-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9e95db69a1a4d4811",
+    "name": "Tabitha Hernandez",
+    "times": [
+      {
+        "id": "-IFFTAOc105xueV9jLTNr",
+        "clockedIn": "2019-03-02T11:00:00.000Z",
+        "clockedOut": "2019-03-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9908119500fa72df9",
+    "name": "Rachael Wilkinson",
+    "times": [
+      {
+        "id": "evLov1sCONzoUkAebRLP2",
+        "clockedIn": "2015-09-15T11:00:00.000Z",
+        "clockedOut": "2015-09-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "fUjyzuZN_tOg2utaOTyHd",
+        "clockedIn": "2015-05-08T11:00:00.000Z",
+        "clockedOut": "2015-05-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9c19783675f788045",
+    "name": "Patrica Gilmore",
+    "times": [
+      {
+        "id": "aVNVTeSGmLUicJv3n_A23",
+        "clockedIn": "2016-11-20T11:00:00.000Z",
+        "clockedOut": "2016-11-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9c0179db924d1c5c9",
+    "name": "Roberts Best",
+    "times": [
+      {
+        "id": "70blnwmtdyDig6qhV7HFm",
+        "clockedIn": "2017-10-15T11:00:00.000Z",
+        "clockedOut": "2017-10-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f963fa6826d3eac432",
+    "name": "Lorene Estrada",
+    "times": [
+      {
+        "id": "4Cl7gTeW_JqXt4rxAThMm",
+        "clockedIn": "2017-09-01T11:00:00.000Z",
+        "clockedOut": "2017-09-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "bcFWvkwHqvN7RLlRJlPm8",
+        "clockedIn": "2019-11-19T11:00:00.000Z",
+        "clockedOut": "2019-11-19T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9052e929d090b1420",
+    "name": "James Whitfield",
+    "times": [
+      {
+        "id": "Hv96DoUufoc4I4boHDM8o",
+        "clockedIn": "2015-06-07T11:00:00.000Z",
+        "clockedOut": "2015-06-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9a61a634cd2b17412",
+    "name": "Rebekah Livingston",
+    "times": [
+      {
+        "id": "in-dA8cYgw0qZ8nBhjYFy",
+        "clockedIn": "2018-07-14T11:00:00.000Z",
+        "clockedOut": "2018-07-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f99fc17e3d2f19b094",
+    "name": "Leann Castro",
+    "times": [
+      {
+        "id": "mtUnmjbMAN2uHFE9cQILQ",
+        "clockedIn": "2019-04-04T11:00:00.000Z",
+        "clockedOut": "2019-04-04T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9d667600cf844d1e9",
+    "name": "Joann Bernard",
+    "times": [
+      {
+        "id": "3agqZXMgm8Gzmed7rFccH",
+        "clockedIn": "2017-03-06T11:00:00.000Z",
+        "clockedOut": "2017-03-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "YSrk3DziySp_uASpqriU2",
+        "clockedIn": "2017-05-22T11:00:00.000Z",
+        "clockedOut": "2017-05-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f949391661d1ec2de1",
+    "name": "Fran Baker",
+    "times": [
+      {
+        "id": "vU4dUSgjVIOGKxgC1xkcE",
+        "clockedIn": "2018-09-17T11:00:00.000Z",
+        "clockedOut": "2018-09-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "H9GQulE3a7AhT8JDbZ7S7",
+        "clockedIn": "2017-02-10T11:00:00.000Z",
+        "clockedOut": "2017-02-10T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f97892dd903120c292",
+    "name": "Bradley Nielsen",
+    "times": [
+      {
+        "id": "ceXv88a6xhQXv_InqVvhZ",
+        "clockedIn": "2016-08-03T11:00:00.000Z",
+        "clockedOut": "2016-08-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9fd692965c0cad2a0",
+    "name": "Blanche Ray",
+    "times": [
+      {
+        "id": "iPuaV6NTgJPDjRQEjQNmC",
+        "clockedIn": "2019-03-05T11:00:00.000Z",
+        "clockedOut": "2019-03-05T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "nOL_kC0zggtvOgws_d002",
+        "clockedIn": "2016-04-04T11:00:00.000Z",
+        "clockedOut": "2016-04-04T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f98da881c44c85104c",
+    "name": "Deleon Santana",
+    "times": [
+      {
+        "id": "IeCghXw1xU3LvUwgNafzf",
+        "clockedIn": "2018-12-13T11:00:00.000Z",
+        "clockedOut": "2018-12-13T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "De7JVt1_cVgOT6KODUdLr",
+        "clockedIn": "2016-07-17T11:00:00.000Z",
+        "clockedOut": "2016-07-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9d49a64d285715c5a",
+    "name": "Emily Harris",
+    "times": [
+      {
+        "id": "Pd9CPlBWB_3qN5aYiI0dd",
+        "clockedIn": "2015-11-03T11:00:00.000Z",
+        "clockedOut": "2015-11-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "qY4OQgvgDbdmc-ryEtGGG",
+        "clockedIn": "2019-08-04T11:00:00.000Z",
+        "clockedOut": "2019-08-04T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9d21657542ac3bec2",
+    "name": "Oconnor Grimes",
+    "times": [
+      {
+        "id": "XzP3lEd57TTtCLlmXOo0e",
+        "clockedIn": "2017-11-17T11:00:00.000Z",
+        "clockedOut": "2017-11-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f913137a2fd913b078",
+    "name": "Clements Farmer",
+    "times": [
+      {
+        "id": "EbdI8SQkjuy0FuolcaxsV",
+        "clockedIn": "2019-06-23T11:00:00.000Z",
+        "clockedOut": "2019-06-23T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "i6azPHRb6qSwdcsT2Zia0",
+        "clockedIn": "2017-05-19T11:00:00.000Z",
+        "clockedOut": "2017-05-19T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f92e7e478d350d0232",
+    "name": "Hess Harmon",
+    "times": [
+      {
+        "id": "lOGalJYwLXeVItkEOPZ3d",
+        "clockedIn": "2016-10-26T11:00:00.000Z",
+        "clockedOut": "2016-10-26T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "5D2BRhVwNXYB3JG8vxxCC",
+        "clockedIn": "2019-11-08T11:00:00.000Z",
+        "clockedOut": "2019-11-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f99b4b70ef24c33b4a",
+    "name": "Eileen Obrien",
+    "times": [
+      {
+        "id": "GKXEMnry884alyZbnjEmx",
+        "clockedIn": "2016-09-07T11:00:00.000Z",
+        "clockedOut": "2016-09-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f90ec44359d2f02efc",
+    "name": "Penny Jefferson",
+    "times": [
+      {
+        "id": "HERhQE872iBGTvjmUf8SS",
+        "clockedIn": "2015-07-01T11:00:00.000Z",
+        "clockedOut": "2015-07-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "we3QKu6cDXQmxZrzkRXAx",
+        "clockedIn": "2016-12-17T11:00:00.000Z",
+        "clockedOut": "2016-12-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f98edf005c6e94642f",
+    "name": "Patty Mullins",
+    "times": [
+      {
+        "id": "KyhDpq7tMWK5wIXfiOmS3",
+        "clockedIn": "2019-07-18T11:00:00.000Z",
+        "clockedOut": "2019-07-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9a595dda4282daef5",
+    "name": "Trujillo Gonzalez",
+    "times": [
+      {
+        "id": "u9CKYngTgB1EwqSr2K7nQ",
+        "clockedIn": "2018-05-17T11:00:00.000Z",
+        "clockedOut": "2018-05-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f901bf71dd595feb41",
+    "name": "Lynda Wilkins",
+    "times": [
+      {
+        "id": "wbrvoDTF84-R0l2FqjHta",
+        "clockedIn": "2016-03-01T11:00:00.000Z",
+        "clockedOut": "2016-03-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "mD9hode5mzQZLAiw-hv15",
+        "clockedIn": "2018-02-12T11:00:00.000Z",
+        "clockedOut": "2018-02-12T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f90b98e4f547e53a42",
+    "name": "Carlene Harper",
+    "times": [
+      {
+        "id": "xXBdBg-YImL-0Zp3CL7vL",
+        "clockedIn": "2017-03-07T11:00:00.000Z",
+        "clockedOut": "2017-03-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f93da46b9d1e51420e",
+    "name": "Duffy Farley",
+    "times": [
+      {
+        "id": "vpZy5oApBirsfPcXSQ2U3",
+        "clockedIn": "2016-11-22T11:00:00.000Z",
+        "clockedOut": "2016-11-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9f0090b4f18517ddc",
+    "name": "Shelly Copeland",
+    "times": [
+      {
+        "id": "C5_Dci0jSMCk3aePxq9hk",
+        "clockedIn": "2018-05-18T11:00:00.000Z",
+        "clockedOut": "2018-05-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "knUvH0vu88TOR5xCjEWfI",
+        "clockedIn": "2018-05-18T11:00:00.000Z",
+        "clockedOut": "2018-05-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9e59c53cb24f6c6a8",
+    "name": "Kelley Castillo",
+    "times": [
+      {
+        "id": "sYHdMKWPg8p3M0SiRxui3",
+        "clockedIn": "2015-12-11T11:00:00.000Z",
+        "clockedOut": "2015-12-11T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9e116273ec9c74160",
+    "name": "Johnson Dotson",
+    "times": [
+      {
+        "id": "LbvMwnynqhAERTvZMHeKz",
+        "clockedIn": "2017-03-16T11:00:00.000Z",
+        "clockedOut": "2017-03-16T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "ZxO2mlhjdfZnMQ7kDZoBy",
+        "clockedIn": "2018-05-22T11:00:00.000Z",
+        "clockedOut": "2018-05-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f919acf4c9628addce",
+    "name": "Fletcher Cleveland",
+    "times": [
+      {
+        "id": "Gm_ncNbhz5OvkPEMfizLB",
+        "clockedIn": "2016-04-06T11:00:00.000Z",
+        "clockedOut": "2016-04-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f93b4be5dacf6461c7",
+    "name": "Cristina Rowland",
+    "times": [
+      {
+        "id": "uMGjVRvjStZRoenBlJeVO",
+        "clockedIn": "2016-02-03T11:00:00.000Z",
+        "clockedOut": "2016-02-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "gPi1umxkPC6J1WY0SsWkM",
+        "clockedIn": "2019-12-16T11:00:00.000Z",
+        "clockedOut": "2019-12-16T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f92492d6ad5c0e6cb4",
+    "name": "Susana Hubbard",
+    "times": [
+      {
+        "id": "BoAsGaeU_3mDJfLh00lYx",
+        "clockedIn": "2019-05-15T11:00:00.000Z",
+        "clockedOut": "2019-05-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9c64c64d62c8581f0",
+    "name": "Gibson Barber",
+    "times": [
+      {
+        "id": "ZYDTodL2Gvfyb3loBJlPK",
+        "clockedIn": "2017-06-09T11:00:00.000Z",
+        "clockedOut": "2017-06-09T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9325690b0c9cbfe86",
+    "name": "Ross Parsons",
+    "times": [
+      {
+        "id": "74PhxSpmzmQZEXLAEHPFP",
+        "clockedIn": "2016-02-06T11:00:00.000Z",
+        "clockedOut": "2016-02-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "T7nwY2TTUt0anPSgBYLhb",
+        "clockedIn": "2019-04-26T11:00:00.000Z",
+        "clockedOut": "2019-04-26T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f99f4eb358b8e9dbc4",
+    "name": "Laurie Burgess",
+    "times": [
+      {
+        "id": "v8QbRAyT71WBb1_Gx785b",
+        "clockedIn": "2017-11-13T11:00:00.000Z",
+        "clockedOut": "2017-11-13T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f908692abf4a89e550",
+    "name": "Tyson Cross",
+    "times": [
+      {
+        "id": "8nkQ5b-9Bb7HC3S-zqEb7",
+        "clockedIn": "2016-08-27T11:00:00.000Z",
+        "clockedOut": "2016-08-27T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f98d4a73867e5447e6",
+    "name": "Zamora Bass",
+    "times": [
+      {
+        "id": "jVHILmkDaONQn3lKWUA8U",
+        "clockedIn": "2018-04-15T11:00:00.000Z",
+        "clockedOut": "2018-04-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "87rXbG4R9DcA1W5-5riPl",
+        "clockedIn": "2016-12-03T11:00:00.000Z",
+        "clockedOut": "2016-12-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f92e30f311261dbf1d",
+    "name": "Freda Molina",
+    "times": [
+      {
+        "id": "Zo_VuNKLYyDzOOsRx85kE",
+        "clockedIn": "2018-09-02T11:00:00.000Z",
+        "clockedOut": "2018-09-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9a94ff67c556d6b80",
+    "name": "Cleo Robertson",
+    "times": [
+      {
+        "id": "8L17cXDjn29dYE5FQZS71",
+        "clockedIn": "2016-11-11T11:00:00.000Z",
+        "clockedOut": "2016-11-11T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f974d84d832bc0c1c0",
+    "name": "Holcomb Keith",
+    "times": [
+      {
+        "id": "0GZKw9YVFee8rcJgatpFy",
+        "clockedIn": "2018-08-20T11:00:00.000Z",
+        "clockedOut": "2018-08-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "-QAVcCAAv3XIogqcWOm5t",
+        "clockedIn": "2015-08-18T11:00:00.000Z",
+        "clockedOut": "2015-08-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9f7b627c7969ac4ea",
+    "name": "Munoz Nolan",
+    "times": [
+      {
+        "id": "2Z-bcF572F9Bh5xiljd55",
+        "clockedIn": "2016-11-15T11:00:00.000Z",
+        "clockedOut": "2016-11-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "k909NwMG3zzki6wodBU1M",
+        "clockedIn": "2017-04-20T11:00:00.000Z",
+        "clockedOut": "2017-04-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f90fe290682a400258",
+    "name": "Stuart Merritt",
+    "times": [
+      {
+        "id": "xsrKLLOsLkKZLo_qXxQCp",
+        "clockedIn": "2016-11-10T11:00:00.000Z",
+        "clockedOut": "2016-11-10T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "JWOd247l7cnQLWaKJjLhv",
+        "clockedIn": "2015-10-27T11:00:00.000Z",
+        "clockedOut": "2015-10-27T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9fe678c973a0a1a6e",
+    "name": "Sargent Ayers",
+    "times": [
+      {
+        "id": "s90UBIrJYmiZiQKV4e4ZD",
+        "clockedIn": "2019-05-25T11:00:00.000Z",
+        "clockedOut": "2019-05-25T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9076097cb061b2c2e",
+    "name": "Mullen Anderson",
+    "times": [
+      {
+        "id": "YmCdPwohbPuEV-T8r5K3i",
+        "clockedIn": "2019-11-06T11:00:00.000Z",
+        "clockedOut": "2019-11-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "vXdJ1gaZ2-oka9PFvbdKK",
+        "clockedIn": "2015-08-06T11:00:00.000Z",
+        "clockedOut": "2015-08-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f90f9a9a7a64c045d0",
+    "name": "Sears Hurley",
+    "times": [
+      {
+        "id": "Qz92Up27ujYnQXEBpcRWL",
+        "clockedIn": "2016-12-10T11:00:00.000Z",
+        "clockedOut": "2016-12-10T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9fc41ef5c5e5c4fdb",
+    "name": "Henson Young",
+    "times": [
+      {
+        "id": "WuYdqkhYAzHV4elOTeUOz",
+        "clockedIn": "2018-05-23T11:00:00.000Z",
+        "clockedOut": "2018-05-23T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9e54aac7a608073dc",
+    "name": "Cunningham Waters",
+    "times": [
+      {
+        "id": "gRoaXZc-oSuMb45121Baw",
+        "clockedIn": "2017-06-21T11:00:00.000Z",
+        "clockedOut": "2017-06-21T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f94c3e903233370b01",
+    "name": "Marlene Walsh",
+    "times": [
+      {
+        "id": "zjX-AMLCN4sVD1MGAW8UE",
+        "clockedIn": "2015-04-27T11:00:00.000Z",
+        "clockedOut": "2015-04-27T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Pt0n4NVoq6_atZxncg4Fb",
+        "clockedIn": "2017-03-12T11:00:00.000Z",
+        "clockedOut": "2017-03-12T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f921054edb164f9901",
+    "name": "Church Oneil",
+    "times": [
+      {
+        "id": "PUbFgL668WmBFjDduLOrz",
+        "clockedIn": "2018-06-21T11:00:00.000Z",
+        "clockedOut": "2018-06-21T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "bnvmmcqFCDespUWy1hncA",
+        "clockedIn": "2015-04-12T11:00:00.000Z",
+        "clockedOut": "2015-04-12T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f92d5e6cded987ee9a",
+    "name": "Russell Huffman",
+    "times": [
+      {
+        "id": "lhR7fvu9KIi00HnxIwhWF",
+        "clockedIn": "2019-03-04T11:00:00.000Z",
+        "clockedOut": "2019-03-04T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "g2hA0lsfxK21OBOzQFjII",
+        "clockedIn": "2015-10-09T11:00:00.000Z",
+        "clockedOut": "2015-10-09T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f92ae384f6a49a1975",
+    "name": "Roseann Arnold",
+    "times": [
+      {
+        "id": "nUaIyBDTspakZop92szDM",
+        "clockedIn": "2019-10-18T11:00:00.000Z",
+        "clockedOut": "2019-10-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f90e558cd8ce62e099",
+    "name": "Rhea Maxwell",
+    "times": [
+      {
+        "id": "fvtBrj3eYc0b_FXoZzCi-",
+        "clockedIn": "2016-10-22T11:00:00.000Z",
+        "clockedOut": "2016-10-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f905791f3255570117",
+    "name": "Sheryl Freeman",
+    "times": [
+      {
+        "id": "nXhJJd4UhgrsPFh4FPQqY",
+        "clockedIn": "2018-07-05T11:00:00.000Z",
+        "clockedOut": "2018-07-05T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Hs4iaKPbsHYMdlH68dS6f",
+        "clockedIn": "2019-10-27T11:00:00.000Z",
+        "clockedOut": "2019-10-27T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9c69e4855ea047cf6",
+    "name": "Kinney Hull",
+    "times": [
+      {
+        "id": "3iDl49Bp04CYdh1m4u2yn",
+        "clockedIn": "2017-10-26T11:00:00.000Z",
+        "clockedOut": "2017-10-26T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f95f3edf9bf59be68d",
+    "name": "Alvarado Burnett",
+    "times": [
+      {
+        "id": "dqzpOSFGNhLqOv4CS9Sj-",
+        "clockedIn": "2019-02-18T11:00:00.000Z",
+        "clockedOut": "2019-02-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "z6X0tNJKe3cArY_Ds_FXC",
+        "clockedIn": "2017-11-16T11:00:00.000Z",
+        "clockedOut": "2017-11-16T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9600b01cc45be7856",
+    "name": "Cook Middleton",
+    "times": [
+      {
+        "id": "obxI4lYJ4yO6fGjuxoG_8",
+        "clockedIn": "2018-02-02T11:00:00.000Z",
+        "clockedOut": "2018-02-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "FpOkjl7jxXgqZZrxNuFkw",
+        "clockedIn": "2016-11-20T11:00:00.000Z",
+        "clockedOut": "2016-11-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9525dfe20813dd762",
+    "name": "Duke Dickson",
+    "times": [
+      {
+        "id": "l7lVif1MMzkPx56tRcpy-",
+        "clockedIn": "2019-12-21T11:00:00.000Z",
+        "clockedOut": "2019-12-21T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Ck-KfY5aqaWVAmo9l6m-C",
+        "clockedIn": "2016-03-02T11:00:00.000Z",
+        "clockedOut": "2016-03-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9361db2cc74a8575f",
+    "name": "Beatrice Cameron",
+    "times": [
+      {
+        "id": "GeYuJGthx0VVhy5HQ6h-m",
+        "clockedIn": "2017-05-11T11:00:00.000Z",
+        "clockedOut": "2017-05-11T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "yFUYSSk0taXmH5MNZ7T47",
+        "clockedIn": "2017-05-03T11:00:00.000Z",
+        "clockedOut": "2017-05-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f95c227c47b59af8ad",
+    "name": "Edith Gibbs",
+    "times": [
+      {
+        "id": "ychUm25WDeP9EXCkrTQWA",
+        "clockedIn": "2016-08-18T11:00:00.000Z",
+        "clockedOut": "2016-08-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f95add1ea24bf1dfd2",
+    "name": "Rene Oneal",
+    "times": [
+      {
+        "id": "etsOehpncUHRu4AN4DE81",
+        "clockedIn": "2019-11-25T11:00:00.000Z",
+        "clockedOut": "2019-11-25T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "kheg0VnDUGz0J8saIj6Xm",
+        "clockedIn": "2018-10-02T11:00:00.000Z",
+        "clockedOut": "2018-10-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9b5c7476bb2702637",
+    "name": "Mai Bowers",
+    "times": [
+      {
+        "id": "eZdGuuHOhK1M7OoPvsD5F",
+        "clockedIn": "2017-11-13T11:00:00.000Z",
+        "clockedOut": "2017-11-13T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "CYbCbNLbgcw2nqFH6pgB0",
+        "clockedIn": "2016-10-21T11:00:00.000Z",
+        "clockedOut": "2016-10-21T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9beea32de6f333aaf",
+    "name": "Maria Brennan",
+    "times": [
+      {
+        "id": "blfnQlh851qUCFveI4pwv",
+        "clockedIn": "2019-09-14T11:00:00.000Z",
+        "clockedOut": "2019-09-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "1SBupd1YFQ09XPu9eCvKc",
+        "clockedIn": "2019-05-19T11:00:00.000Z",
+        "clockedOut": "2019-05-19T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9a9d785b42efb7803",
+    "name": "Delaney Dean",
+    "times": [
+      {
+        "id": "5nVjke1pFS98jSltPTxlA",
+        "clockedIn": "2018-08-02T11:00:00.000Z",
+        "clockedOut": "2018-08-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Uz1HzeUxW5UqPGp0OGW0Y",
+        "clockedIn": "2018-10-05T11:00:00.000Z",
+        "clockedOut": "2018-10-05T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f93f531dd823cd5ad6",
+    "name": "Tiffany Rush",
+    "times": [
+      {
+        "id": "s9E4yqKaCtpUThcZN1Nyw",
+        "clockedIn": "2018-05-07T11:00:00.000Z",
+        "clockedOut": "2018-05-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "d6Q56X2u5rip4mlUDlioh",
+        "clockedIn": "2016-03-10T11:00:00.000Z",
+        "clockedOut": "2016-03-10T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9489013a3692eebd4",
+    "name": "Flora Fischer",
+    "times": [
+      {
+        "id": "H-IhTzc2xtIEpU3wIp6e6",
+        "clockedIn": "2016-12-07T11:00:00.000Z",
+        "clockedOut": "2016-12-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "FmN3EsdLwS8ZMC3UpzRhN",
+        "clockedIn": "2019-03-03T11:00:00.000Z",
+        "clockedOut": "2019-03-03T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f97246051d3037ad8b",
+    "name": "Mercado Johnson",
+    "times": [
+      {
+        "id": "e2PonEC7WSBjBbJQ_GuaP",
+        "clockedIn": "2019-10-02T11:00:00.000Z",
+        "clockedOut": "2019-10-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f94b736fbd8886704d",
+    "name": "Dina Moon",
+    "times": [
+      {
+        "id": "TvZGdHy2H-Zg5IVRzT2Ju",
+        "clockedIn": "2016-06-24T11:00:00.000Z",
+        "clockedOut": "2016-06-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "JlK_Kzklwn67V3fwxfVrS",
+        "clockedIn": "2016-10-08T11:00:00.000Z",
+        "clockedOut": "2016-10-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9e6d4b8834d7f5545",
+    "name": "Simon Barlow",
+    "times": [
+      {
+        "id": "kgSoCgIGsD1KUfYSPPEA9",
+        "clockedIn": "2019-11-18T11:00:00.000Z",
+        "clockedOut": "2019-11-18T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "JVJAJQsJr_3VM99DL9q4H",
+        "clockedIn": "2016-12-12T11:00:00.000Z",
+        "clockedOut": "2016-12-12T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f99ea0dc92f1b47209",
+    "name": "Bailey Johnston",
+    "times": [
+      {
+        "id": "tUATgfNq7Svin0hg4dzsa",
+        "clockedIn": "2018-05-22T11:00:00.000Z",
+        "clockedOut": "2018-05-22T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9986abc21ef50836e",
+    "name": "Berta Rivas",
+    "times": [
+      {
+        "id": "1cNSFhzILudeZiKrIhGck",
+        "clockedIn": "2015-07-07T11:00:00.000Z",
+        "clockedOut": "2015-07-07T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "WSqK6ScgIc-X5IsXTUGNf",
+        "clockedIn": "2015-08-15T11:00:00.000Z",
+        "clockedOut": "2015-08-15T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9f3e4c7864d36dfa2",
+    "name": "Boyer Cummings",
+    "times": [
+      {
+        "id": "ulb-_9yDSDI2Pw7EKyLps",
+        "clockedIn": "2017-12-14T11:00:00.000Z",
+        "clockedOut": "2017-12-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "N655lsEaOlLJkiYsp_5px",
+        "clockedIn": "2017-02-06T11:00:00.000Z",
+        "clockedOut": "2017-02-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9da06978b378e0d78",
+    "name": "Freida Tate",
+    "times": [
+      {
+        "id": "pHoL1RLJInNmrnFcxMaTH",
+        "clockedIn": "2017-07-20T11:00:00.000Z",
+        "clockedOut": "2017-07-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "an6uyxGgmWxE19XHUUimt",
+        "clockedIn": "2017-04-23T11:00:00.000Z",
+        "clockedOut": "2017-04-23T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f996c5c8b64529547d",
+    "name": "Georgia Nguyen",
+    "times": [
+      {
+        "id": "u1Ht5wv2iD47K32HzaxMj",
+        "clockedIn": "2018-03-02T11:00:00.000Z",
+        "clockedOut": "2018-03-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "_HwzIg9oqAY63AHpGxekw",
+        "clockedIn": "2019-12-16T11:00:00.000Z",
+        "clockedOut": "2019-12-16T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9fa72cee0e98fa556",
+    "name": "Jenkins Dickerson",
+    "times": [
+      {
+        "id": "Dc8xq_Fo3wMkhnSWGrCCw",
+        "clockedIn": "2018-09-24T11:00:00.000Z",
+        "clockedOut": "2018-09-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f95ec0b9670e83620a",
+    "name": "Juana England",
+    "times": [
+      {
+        "id": "__eQ2_Hnf6Kp4dDaoWZsH",
+        "clockedIn": "2018-04-19T11:00:00.000Z",
+        "clockedOut": "2018-04-19T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "AKYVpiCNZC_689U_z-VNI",
+        "clockedIn": "2015-04-08T11:00:00.000Z",
+        "clockedOut": "2015-04-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9d6b0410f41d374a1",
+    "name": "Tisha Mcguire",
+    "times": [
+      {
+        "id": "Dc0GyR8Bg-hQWtZmkNbS2",
+        "clockedIn": "2017-10-20T11:00:00.000Z",
+        "clockedOut": "2017-10-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9b7c2ebb21d7afd12",
+    "name": "Cherry Johns",
+    "times": [
+      {
+        "id": "2SAMJ5cwo2-Gq_1AX02cM",
+        "clockedIn": "2016-10-08T11:00:00.000Z",
+        "clockedOut": "2016-10-08T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f951253275a479ced9",
+    "name": "Austin Vinson",
+    "times": [
+      {
+        "id": "2Ms6lUid1OgL03oj8n1mz",
+        "clockedIn": "2019-04-19T11:00:00.000Z",
+        "clockedOut": "2019-04-19T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9596b8617e7ae1718",
+    "name": "Weber Hogan",
+    "times": [
+      {
+        "id": "Y1Zftv7RNyXvej7x1wWWZ",
+        "clockedIn": "2018-08-20T11:00:00.000Z",
+        "clockedOut": "2018-08-20T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "7LssCuGGbVNLT15nyoND2",
+        "clockedIn": "2018-08-06T11:00:00.000Z",
+        "clockedOut": "2018-08-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9b846168374b5f483",
+    "name": "Rosemary Wooten",
+    "times": [
+      {
+        "id": "btoN2VONbCnZ4KS3AaXSs",
+        "clockedIn": "2015-11-01T11:00:00.000Z",
+        "clockedOut": "2015-11-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "9SDpDh0PoErINHuem21jT",
+        "clockedIn": "2019-08-10T11:00:00.000Z",
+        "clockedOut": "2019-08-10T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9b623d6d5db1bf9af",
+    "name": "Esmeralda Casey",
+    "times": [
+      {
+        "id": "4EGzcOh39qN4aQQEvYPJb",
+        "clockedIn": "2017-06-14T11:00:00.000Z",
+        "clockedOut": "2017-06-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "272NMlA1XH9T47gPAsxCD",
+        "clockedIn": "2016-02-17T11:00:00.000Z",
+        "clockedOut": "2016-02-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9184685ce1ec0b909",
+    "name": "Hammond Sparks",
+    "times": [
+      {
+        "id": "1p2N_2jrIfnxnyt6YdXJa",
+        "clockedIn": "2017-09-14T11:00:00.000Z",
+        "clockedOut": "2017-09-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9cb903de18a8e2f0e",
+    "name": "Brewer Curtis",
+    "times": [
+      {
+        "id": "x6Lvb6CNfNQQ2mcHfbm_m",
+        "clockedIn": "2018-11-02T11:00:00.000Z",
+        "clockedOut": "2018-11-02T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9e58c6ff92e838027",
+    "name": "Meyer Cantu",
+    "times": [
+      {
+        "id": "-qn60PzjwHWKULYL2BYwi",
+        "clockedIn": "2016-06-24T11:00:00.000Z",
+        "clockedOut": "2016-06-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "dJHVD5AmbvQFrAQEV8w89",
+        "clockedIn": "2017-08-06T11:00:00.000Z",
+        "clockedOut": "2017-08-06T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f93af0dd48409788d4",
+    "name": "Jewell Fitzgerald",
+    "times": [
+      {
+        "id": "wR5K2S_0qAVqi6OHc7OnV",
+        "clockedIn": "2016-05-01T11:00:00.000Z",
+        "clockedOut": "2016-05-01T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "Z_vtzitZw5BGGY6w9_HAt",
+        "clockedIn": "2015-03-23T11:00:00.000Z",
+        "clockedOut": "2015-03-23T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f904a8a10279fb7169",
+    "name": "Lottie Ellison",
+    "times": [
+      {
+        "id": "ejYFmAV8KTmEjlRu99nQj",
+        "clockedIn": "2017-02-25T11:00:00.000Z",
+        "clockedOut": "2017-02-25T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "arSKC5h8Q-CHqdzvJZK3n",
+        "clockedIn": "2018-11-16T11:00:00.000Z",
+        "clockedOut": "2018-11-16T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9e994f94b1b34f624",
+    "name": "Maude Reese",
+    "times": [
+      {
+        "id": "6GJjxnG66m2RNonzKXPj2",
+        "clockedIn": "2018-12-17T11:00:00.000Z",
+        "clockedOut": "2018-12-17T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f9287884c5f58fe187",
+    "name": "Frank Daugherty",
+    "times": [
+      {
+        "id": "-X40IciaDFB733rmafJpU",
+        "clockedIn": "2016-07-25T11:00:00.000Z",
+        "clockedOut": "2016-07-25T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f90f4da9bf0021f0af",
+    "name": "Woodward Compton",
+    "times": [
+      {
+        "id": "KMpMYQhxeSucGjnIozPCA",
+        "clockedIn": "2015-10-24T11:00:00.000Z",
+        "clockedOut": "2015-10-24T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "5fbcb2f98a0e28bc4b6e6894",
+    "name": "Rosanne Dominguez",
+    "times": [
+      {
+        "id": "rw9_Wy6vsisWWWiK-1brB",
+        "clockedIn": "2018-09-12T11:00:00.000Z",
+        "clockedOut": "2018-09-12T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": false
+  },
+  {
+    "id": "5fbcb2f9fcb9c1112b3ed4b7",
+    "name": "Estrada Velasquez",
+    "times": [
+      {
+        "id": "D5JaPiUJrfp1GEHRoy0Bz",
+        "clockedIn": "2018-08-14T11:00:00.000Z",
+        "clockedOut": "2018-08-14T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      },
+      {
+        "id": "eHQyw8yHecUvxO1Ia2UrD",
+        "clockedIn": "2016-08-13T11:00:00.000Z",
+        "clockedOut": "2016-08-13T14:30:00.000Z",
+        "unproductiveTime": "15min"
+      }
+    ],
+    "active": true
+  }
+]
