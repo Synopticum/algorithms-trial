@@ -15,11 +15,16 @@ const Ul = styled.ul`
 
 const Li = styled.li`
   padding: 0;
+  margin: 5px 0;
 `;
 
 const NavLink = styled(Link)`
   cursor: pointer;
   text-decoration: underline;
+
+  &:hover {
+    color: #bb0000;
+  }
 `;
 
 type Props = {};
@@ -31,6 +36,9 @@ const Home: React.FC<Props> = () => {
         <Ul>
           <Li>
             <NavLink to={'/spiral-matrix/'}>Spiral Matrix</NavLink>
+          </Li>
+          <Li>
+            <NavLink to={'/fibonacci/'}>Fibonacci</NavLink>
           </Li>
         </Ul>
       </Content>

@@ -10,6 +10,7 @@ import Error404 from 'src/pages/Error404';
 const Home = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/Home'));
 const ChunkedPage = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/ChunkedPage'));
 const SpiralMatrix = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/SpiralMatrix'));
+const Fibonacci = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/Fibonacci'));
 
 const Content = styled.div`
   flex: 1 0 0;
@@ -31,6 +32,7 @@ const Layout: React.FC<Props> = () => {
             <Route exact path="/" component={Home} />
             <Route path="/chunked-page/" component={ChunkedPage} />
             <Route path="/spiral-matrix/" component={SpiralMatrix} />
+            <Route path="/fibonacci/" component={Fibonacci} />
             <Route path="/error-404/" component={Error404} />
           </Switch>
         </Content>
