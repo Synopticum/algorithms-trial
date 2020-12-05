@@ -28,8 +28,15 @@ const fib2 = (n: number): number => {
   return result[n];
 };
 
+// recursive solution
+const fib3 = (n: number): number => {
+  if (n < 2) return n;
+
+  return fib3(n - 1) + fib3(n - 2);
+};
+
 const Fibonacci: React.FC<Props> = () => {
-  return <div>Hello Fibonacci {fib2(7)}</div>;
+  return <div>Hello Fibonacci {fib3(7)}</div>;
 };
 
 export default Fibonacci;
