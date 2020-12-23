@@ -11,6 +11,7 @@ const Home = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/H
 const ChunkedPage = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/ChunkedPage'));
 const SpiralMatrix = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/SpiralMatrix'));
 const Fibonacci = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/Fibonacci'));
+const LinkedList = loadable(() => import(/* webpackPrefetch: true */ '../../../pages/LinkedList'));
 
 const Content = styled.div`
   flex: 1 0 0;
@@ -33,6 +34,7 @@ const Layout: React.FC<Props> = () => {
             <Route path="/chunked-page/" component={ChunkedPage} />
             <Route path="/spiral-matrix/" component={SpiralMatrix} />
             <Route path="/fibonacci/" component={Fibonacci} />
+            <Route path="/linked-list/" component={LinkedList} />
             <Route path="/error-404/" component={Error404} />
           </Switch>
         </Content>

@@ -40,6 +40,9 @@ const Home: React.FC<Props> = () => {
           <Li>
             <NavLink to={'/fibonacci/'}>Fibonacci</NavLink>
           </Li>
+          <Li>
+            <NavLink to={'/linked-list/'}>Linked List</NavLink>
+          </Li>
         </Ul>
       </Content>
     </ErrorBoundary>
