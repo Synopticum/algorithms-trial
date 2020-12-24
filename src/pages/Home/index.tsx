@@ -43,6 +43,9 @@ const Home: React.FC<Props> = () => {
           <Li>
             <NavLink to={'/linked-list/'}>Linked List</NavLink>
           </Li>
+          <Li>
+            <NavLink to={'/tree/'}>Tree</NavLink>
+          </Li>
         </Ul>
       </Content>
     </ErrorBoundary>
