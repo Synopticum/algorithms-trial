@@ -1,5 +1,5 @@
-import React, { Dispatch, useEffect, useRef, useState } from 'react';
-import styled from 'styled-components';
+import React, { useRef, useState } from 'react';
+import { Content, Result, Button, Controls, State, Log } from '../shared';
 
 class Node {
   constructor(data: unknown, next: Node = null) {
@@ -178,51 +178,25 @@ class LinkedListImpl {
 
     return false;
   }
-}
 
-const Content = styled.div`
-  display: flex;
-  width: 100%;
-`;
+  fromLast(n: number): Node {
+    if (!this.head || !this.head.next) return null;
 
-const Result = styled.div`
-  flex: 3;
-  margin-right: 20px;
-`;
+    let slow = this.head;
+    let fast = this.head;
 
-const State = styled.pre`
-  padding-bottom: 20px;
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 20px;
-  line-height: 1.4;
-`;
+    for (let i = 0; i < n; i++) {
+      fast = fast.next;
+    }
 
-const Log = styled.pre`
-  color: #666666;
-  line-height: 1.4;
-`;
+    while (fast.next) {
+      slow = slow.next;
+      fast = fast.next;
+    }
 
-const Controls = styled.div`
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-`;
-
-const Button = styled.button`
-  cursor: pointer;
-  display: block;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 8px 0;
-  outline: none;
-  background-color: #eeeeee;
-  transition: background-color 0.2s ease;
-
-  &:hover {
-    background-color: #fafafa;
+    return slow;
   }
-`;
+}
 
 type Props = {};
 
@@ -323,6 +297,14 @@ const LinkedList: React.FC<Props> = () => {
           }}
         >
           circular()
+        </Button>
+        <Button
+          onClick={(): void => {
+            const index = prompt('Enter index');
+            setLog(JSON.stringify(list.current.fromLast(parseInt(index))));
+          }}
+        >
+          fromLast()
         </Button>
       </Controls>
     </Content>
