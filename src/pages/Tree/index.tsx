@@ -28,7 +28,7 @@ class TreeImpl {
     this.root = root;
   }
 
-  traverseBF(fn: (Node: Node) => void): void {
+  traverseBF(fn: (node: Node) => void): void {
     const arr = [this.root];
     while (arr.length) {
       const node = arr.shift();
@@ -38,7 +38,7 @@ class TreeImpl {
     }
   }
 
-  traverseDF(fn: (Node: Node) => void): void {
+  traverseDF(fn: (node: Node) => void): void {
     const arr = [this.root];
     while (arr.length) {
       const node = arr.shift();
@@ -46,6 +46,29 @@ class TreeImpl {
       arr.unshift(...node.children);
       fn(node);
     }
+  }
+
+  levelWidth(): number[] {
+    const levels = [0];
+    const array: (Node | 'spacer')[] = [this.root, 'spacer'];
+
+    while (array.length) {
+      if (array.length === 1 && array[0] === 'spacer') {
+        return levels;
+      }
+
+      const value: Node | 'spacer' = array.shift();
+
+      if (value === 'spacer') {
+        array.push(value);
+        levels.push(0);
+      } else {
+        array.push(...value.children);
+        levels[levels.length - 1]++;
+      }
+    }
+
+    return levels;
   }
 }
 
@@ -91,6 +114,13 @@ const Tree: React.FC<Props> = () => {
           }}
         >
           traverseDF()
+        </Button>
+        <Button
+          onClick={(): void => {
+            setLog(JSON.stringify(tree.current.levelWidth()));
+          }}
+        >
+          levelWidth()
         </Button>
       </Controls>
     </Content>
