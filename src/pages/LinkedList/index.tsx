@@ -145,6 +145,21 @@ class LinkedListImpl {
       node = node.next;
     }
   }
+
+  midpoint(): Node {
+    if (!this.head) return null;
+    if (!this.head.next) return this.head;
+
+    let slow = this.head;
+    let fast = this.head;
+
+    while (fast && fast.next) {
+      slow = slow.next;
+      fast = fast.next.next;
+    }
+
+    return slow;
+  }
 }
 
 const Content = styled.div`
@@ -276,6 +291,13 @@ const LinkedList: React.FC<Props> = () => {
           }}
         >
           insertAt()
+        </Button>
+        <Button
+          onClick={(): void => {
+            setLog(`Midpoint: ${JSON.stringify(list.current.midpoint())}`);
+          }}
+        >
+          midpoint()
         </Button>
       </Controls>
     </Content>
