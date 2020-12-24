@@ -160,6 +160,24 @@ class LinkedListImpl {
 
     return slow;
   }
+
+  circular(): boolean {
+    if (!this.head || !this.head.next) return null;
+
+    let slow = this.head;
+    let fast = this.head;
+
+    while (fast.next && fast.next.next) {
+      slow = slow.next;
+      fast = fast.next.next;
+
+      if (slow === fast) {
+        return true;
+      }
+    }
+
+    return false;
+  }
 }
 
 const Content = styled.div`
@@ -298,6 +316,13 @@ const LinkedList: React.FC<Props> = () => {
           }}
         >
           midpoint()
+        </Button>
+        <Button
+          onClick={(): void => {
+            setLog(`Is circular: ${JSON.stringify(list.current.circular())}`);
+          }}
+        >
+          circular()
         </Button>
       </Controls>
     </Content>
